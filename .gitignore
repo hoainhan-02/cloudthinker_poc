@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Cache
+.cache/
+.tmp/
+temp/
+.eslintcache
+
+# Package managers
+.pnpm-store/
+.yarn/
+.yarn-cache/
+.yarnrc.yml
+
+# TypeScript
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: lock files (usually KEEP these, so commented out)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: Docker
+.dockerignore
+
+# Optional: test output
+jest-stare/

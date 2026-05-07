@@ -1,0 +1,16 @@
+{
+  "name": "cloudthinker_poc",
+  "version": "1.0.0",
+  "description": "Tài liệu này hướng dẫn bạn tạo một API **health check** đơn giản باستخدام Node.js. API này thường dùng để kiểm tra xem server có đang hoạt động bình thường hay không.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
